@@ -15,5 +15,5 @@ yarn serve
 
 ## Slike:
 ![alt text](https://i.imgur.com/MmYL6Q2.png)
-<img src="https://i.imgur.com/MmYL6Q2.png" width="200" height="200">
+<img src="https://i.imgur.com/MmYL6Q2.png" width="400">
 
