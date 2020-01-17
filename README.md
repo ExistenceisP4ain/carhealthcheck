@@ -2,7 +2,7 @@
 
 ### Izradili: Stefano Rojnić & Denis Zulić
 ### Opis:
-### Korišteno: Vue, croppa, nodemailer
+### Korišteno: Vue, croppa, nodemailer, firebase
 
 ## Pokretanje
 ```
