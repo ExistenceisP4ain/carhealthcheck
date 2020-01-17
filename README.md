@@ -14,7 +14,6 @@ yarn serve
 ```
 
 ## Slike:
-<di
 <img src="https://i.imgur.com/MmYL6Q2.png" width="500">
 <img src="https://i.imgur.com/iRJo7Ja.png" width="500">
 <img src="https://i.imgur.com/WLyu8ts.png" width="500">
