@@ -14,8 +14,9 @@ yarn serve
 ```
 
 ## Slike:
-<img src="https://i.imgur.com/MmYL6Q2.png" width="300">
-<img src="https://i.imgur.com/iRJo7Ja.png" width="300">
-<img src="https://i.imgur.com/WLyu8ts.png" width="400">
-<img src="https://i.imgur.com/Hb5LAW9.png" width="400">
+<di
+<img src="https://i.imgur.com/MmYL6Q2.png" width="500">
+<img src="https://i.imgur.com/iRJo7Ja.png" width="500">
+<img src="https://i.imgur.com/WLyu8ts.png" width="500">
+<img src="https://i.imgur.com/Hb5LAW9.png" width="500">
 
