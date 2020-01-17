@@ -13,5 +13,6 @@ yarn install
 yarn serve
 ```
 
-
+## Slike:
+![alt text](https://i.imgur.com/MmYL6Q2.png)
 
